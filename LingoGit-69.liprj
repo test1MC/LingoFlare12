@@ -3,4 +3,5 @@
     <ProjectFile Source="Target/The self.docx" Target="Target/The self.docx" />
     <ProjectFile Source="Target/Tomato.docx" Target="Target/Tomato.docx" />
     <ProjectFile Source="Target/V10 review.docx" Target="Target/V10 review.docx" />
+    <TMConnection Connection="LingoLocal1.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
