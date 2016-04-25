@@ -51,7 +51,8 @@
             mtype="protected"
             mid="2">  </mrk><mrk
             mtype="seg"
-            mid="3">While we tend to look at SFP’s as generally negative, it actually has strong footing on both sides of the fence.</mrk><mrk
+            mid="3"
+            comment="hello">While we tend to look at SFP’s as generally negative, it actually has strong footing on both sides of the fence.</mrk><mrk
             mtype="protected"
             mid="4"> </mrk><mrk
             mtype="seg"
@@ -68,7 +69,8 @@
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0"
+            comment="translated" /><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
