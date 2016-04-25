@@ -100,7 +100,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Para mí, esto siempre ha sido como el mejor enfoque para obtener el máximo rendimiento de sus empleados.</mrk><mrk
+            MadCap:matchPercent="0" /><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
